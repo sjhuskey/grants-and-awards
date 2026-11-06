@@ -1,6 +1,6 @@
 # README
 
-I made this notebook at the request of a colleague who is on a committee to encourage faculty members to apply for fellowships, awards, and grants. It was a fun exercise in using topic modeling and Natural Language Processing to glean specific information from a large pool of miscellaneous texts.
+I made [this notebook](fellowships-awards.ipynb) at the request of a colleague who is on a committee to encourage faculty members to apply for fellowships, awards, and grants. It was a fun exercise in using topic modeling and Natural Language Processing to glean specific information from a large pool of miscellaneous texts.
 
 I haven't included the data files because I haven't asked permission to upload them.
 
